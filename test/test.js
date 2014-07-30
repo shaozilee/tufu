@@ -1,3 +1,10 @@
 var tufu = require("../index");
 
-tufu("./bg.jpg").cut(0,100,200,300).compress(100).save("./bg2.jpg");
+
+tufu("./bg.jpg").compress(50).save("./bg1.jpg");
+
+tufu("./bg.jpg").cut(0,100,200,300).save("./bg2.jpg");
+
+tufu("./bg.jpg").scale(0.5,1).save("./bg3.jpg");
+
+tufu("./bg.jpg").resize(100,200).save("./bg4.jpg");
