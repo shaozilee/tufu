@@ -1,6 +1,11 @@
+/**
+ * this module is image processing tool
+ *
+ * @author shaozilee
+ */
+
 
 var tufu = require("./lib/tufu");
-
 //add plugins
 tufu.plugin("cut",require("./lib/cut"));
 tufu.plugin("compress",require("./lib/compress"));
