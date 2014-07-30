@@ -1,0 +1,32 @@
+{
+  "name": "tufu",
+  "version": "0.0.1",
+  "description": "A pure javascript image processing tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaozilee/tufu"
+  },
+  "keywords": [
+    "tufu",
+    "image processing",
+    "cut",
+    "resize",
+    "thumbnail",
+    "scale"
+  ],
+  "author": {
+    "name": "shaozilee",
+    "email": "shaozilee@gmail.com"
+  },
+  "license": {
+    "type":"MIT",
+    "url":"http://github.com/shaozilee/tufu/LICENSE.md"
+  },
+  "dependencies": {
+    "jpeg-js": ">=0.0.3"
+  },
+  "devDependencies": {
+  }
+
+}
