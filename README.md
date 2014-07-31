@@ -29,12 +29,11 @@ cut
 
 resize
 
-thumbnail
-
 compress
 
 scale
 
+thumbnail(will be coming)
 
 
 License

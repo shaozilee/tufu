@@ -8,3 +8,5 @@ tufu("./bg.jpg").cut(0,100,200,300).save("./bg2.jpg");
 tufu("./bg.jpg").scale(0.5,1).save("./bg3.jpg");
 
 tufu("./bg.jpg").resize(100,200).save("./bg4.jpg");
+
+tufu("./bg.jpg").resize(500,500).save("./bg5.jpg");
