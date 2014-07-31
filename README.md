@@ -35,7 +35,6 @@ scale
 
 thumbnail(will be coming)
 
-
 License
 ---
 U can use on free with [MIT License](https://github.com/shaozilee/tufu/blob/master/LICENSE.md)
