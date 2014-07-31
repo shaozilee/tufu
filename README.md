@@ -7,7 +7,9 @@ So far,it supports image type:jpg
 
 Install
 ---
-npm install tufu
+
+	npm install tufu
+
 
 How to use ?
 ---
