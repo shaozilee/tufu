@@ -9,6 +9,9 @@
   },
   "keywords": [
     "tufu",
+    "jpeg",
+    "jpg",
+    "bmp",
     "image processing",
     "cut",
     "resize",
@@ -21,10 +24,11 @@
   },
   "license": {
     "type":"MIT",
-    "url":"http://github.com/shaozilee/tufu/LICENSE.md"
+    "url":"http://github.com/shaozilee/tufu/LICENSE"
   },
   "dependencies": {
-    "jpeg-js": ">=0.0.3"
+    "jpeg-js": ">=0.0.3",
+    "bmp-js":">=0.0.1"
   },
   "devDependencies": {
   }
