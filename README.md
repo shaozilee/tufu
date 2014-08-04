@@ -3,7 +3,7 @@ A pure js image processing tool
 tufu is an image processing tool that likes gm,but it is lightweight without installing other software.
 U just run 'npm install tufu',then use it.
 
-So far,it supports image type:jpg
+So far,it supports image type:jpg、bmp
 
 Install
 ---
@@ -39,7 +39,7 @@ thumbnail(will be coming)
 
 License
 ---
-U can use on free with [MIT License](https://github.com/shaozilee/tufu/blob/master/LICENSE.md)
+U can use on free with [MIT License](https://github.com/shaozilee/tufu/blob/master/LICENSE)
 
 
 
