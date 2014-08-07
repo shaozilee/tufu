@@ -1,4 +1,5 @@
 ![图夫](./images/logo.png)
+[![Build Status](https://travis-ci.org/shaozilee/tufu.svg?branch=master)](https://travis-ci.org/shaozilee/tufu)
 
 A pure js image processing tool
 ===
