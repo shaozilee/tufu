@@ -1,3 +1,5 @@
+![图夫](./images/logo.png)
+
 A pure js image processing tool
 ===
 tufu is an image processing tool that likes gm,but it is lightweight without installing other software.

@@ -22,6 +22,8 @@
     "name": "shaozilee",
     "email": "shaozilee@gmail.com"
   },
+  "scripts":{
+  },
   "license": {
     "type":"MIT",
     "url":"http://github.com/shaozilee/tufu/LICENSE"
@@ -31,5 +33,6 @@
     "bmp-js":">=0.0.1"
   },
   "devDependencies": {
+    
   }
 }
